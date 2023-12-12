@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.otadiv { 
+	box-align: center;
+	border-radius:	35px;
+	background-color: black;
+	width: 15rem;
+	height: 38rem;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3rem;
+}
+.kattaaka {
+	margin-left: 31px;
+	border-radius: 200px 200px 200px 200px;
+	background-color: black;
+	border-radius: 50%;
+	width: 180px;
+	height: 180px;
+}
+.ortanchaaka {
+	margin-left: 31px;
+	margin-bottom: 1rem;
+	margin-top: 1rem;
+	background-color: black;
+	border-radius: 50%;
+	width: 180px;
+	height: 180px;
+}
+.kichkinauka {
+	margin-left: 31px;
+	background-color: black;
+	border-radius: 50%;
+	width: 180px;
+	height: 180px;
+}
+.kattaaka:hover {
+	background-color: red;
+}
+.ortanchaaka:hover {
+	background-color: yellow;
+}
+.kichkinauka:hover {
+	background-color: green;
+}
